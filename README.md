@@ -1,2 +1,3 @@
-Curriculum Vitae for Filipe Figueiredo.
+Long form Curriculum Vitae for Filipe Figueiredo.
+
 Updated January 2025.
